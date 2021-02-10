@@ -1,0 +1,21 @@
+{
+    "nombre":"Dey Milfy",
+    "apellido":"herrera",    
+    "edad":25,
+    "experiencia":true,
+    "correo":["dey@hotmail.com","juanfco.frias@gamnil.com"],
+    "curos":[
+        {
+            "id":1,
+            "cursos":"javascript"
+        },
+        {
+            "id":2,
+            "cursos":"Drupal"
+        },
+        {
+            "id":3,
+            "cursos":"java"
+        }
+    ]    
+}
